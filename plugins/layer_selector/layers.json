@@ -1,0 +1,18 @@
+[
+    {
+        "agsSource": {
+            "url": "http://services.coastalresilience.org:6080/arcgis/rest/services",
+            "folderTitle": "Coastal_Resilience_base_data",
+            "folders": [
+                {
+                    "name": "Baja",
+                    "services": [
+                       
+                        { "name": "Ecological_Assets", "type":"dynamic" },
+						{ "name": "Social_and_Economic_Assets", "type":"dynamic" }
+                    ]
+                }
+            ]
+        }
+    }
+]

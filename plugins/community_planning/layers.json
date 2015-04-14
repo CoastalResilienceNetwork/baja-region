@@ -1,0 +1,38 @@
+[
+    {
+        "agsSource": {
+            "url": "http://services.coastalresilience.org:6080/arcgis/rest/services",
+            "folderTitle": "Community_Planning",
+            "folders": [
+                {
+                    "name": "La_Paz",
+                    "services": [
+					    { "name": "Urban", "type":"dynamic" }
+						
+                    ]
+                },	
+				{
+                    "name": "Cabo_San_Lucas",
+                    "services": [
+					    { "name": "Urban", "type":"dynamic" }
+						
+                    ]
+                },	
+				{
+                    "name": "Puerto_San_Carlos",
+                    "services": [
+					    { "name": "Urban", "type":"dynamic" }
+						
+                    ]
+                },
+				{
+                    "name": "San_Jose_del_Cabo_Centro",
+                    "services": [
+					    { "name": "Urban", "type":"dynamic" }
+						
+                    ]
+                }	
+            ]
+        }
+    }
+]

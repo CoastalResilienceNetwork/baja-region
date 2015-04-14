@@ -1,0 +1,17 @@
+[
+    {
+        "agsSource": {
+            "url": "http://services.coastalresilience.org:6080/arcgis/rest/services",
+            "folderTitle": "Flood & Sea_Level Rise",
+            "folders": [
+                {
+                    "name": "Baja",
+                    "services": [
+					    { "name": "Cyclone_Odile_2014", "type":"dynamic" }
+						
+                    ]
+                }
+            ]
+        }
+    }
+]
