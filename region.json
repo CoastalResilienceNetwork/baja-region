@@ -65,20 +65,38 @@
         "hideByDefault": false,
         "areas": [
             {
-                "id": "Ventura",
-                "display": "Ventura",
-                "details": "Ventura, CA",
-                "shape": [[-119.52276396600227, 34.387321441606375], [-119.4867901956278, 34.39238979023838], [-119.26656052672348, 34.26921460290802], [-118.90506800359715, 34.071031797619405], [-118.89980354904543, 33.994683833542574], [-118.92875804728317, 33.98740901687506], [-119.32797915926733, 34.08411311971952], [-119.52276396600227, 34.387321441606375]],
-                "availablePlugins": ["layer_selector", "community_planning","floodSLR", "economic", "future_habitat"],
+                "id": "Cabo San Lucas",
+                "display": "Cabo San Lucas",
+                "details": "Cabo San Lucas, Baja Sur, Mexico",
+                "shape": [[-109.97171920265123, 22.871954054354056], [-109.97171920265123, 22.927218451590626], [-109.89394378490272, 22.927218451590626], [-109.89394378490272, 22.871954054354056], [-109.97171920265123, 22.871954054354056]],
+                "availablePlugins": ["layer_selector", "community_planning"],
                 "outlineColor": "#000",
                 "noFill": true
             },
             {
-                "id": "Monterey",
-                "display": "Monterey",
-                "details": "Monterey, CA",
-                "shape": [[-122.316832426822, 37.12771684650833], [-122.08521258993395, 37.0049464111225], [-121.6916149603745, 36.98444447851047], [-121.63599790395533, 36.592714047270626], [-121.90695279411031, 36.588133956161634], [-122.35901963560761, 37.11305945551137], [-122.316832426822, 37.12771684650833]],
-                "availablePlugins": ["layer_selector", "community_planning", "floodSLR"],
+                "id": "La Paz",
+                "display": "La Paz",
+                "details": "La Paz, Baja Sur, Mexico",
+                "shape": [[-110.35229836087498, 24.04618613369941], [-110.35229836087498, 24.186689036457295], [-110.25311347670672, 24.186689036457295], [-110.25311347670672, 24.04618613369941], [-110.35229836087498, 24.04618613369941]],
+                "availablePlugins": ["layer_selector", "community_planning"],
+                "outlineColor": "#000",
+                "noFill": true
+            },
+            {
+                "id": "Puerto San Carlos",
+                "display": "Puerto San Carlos",
+                "details": "Puerto San Carlos, Baja Sur, Mexico",
+                "shape": [[-112.12189265111316, 24.777982634236757], [-112.12189265111316, 24.79751042415788], [-112.08982549131426, 24.79751042415788], [-112.08982549131426, 24.777982634236757], [-112.12189265111316, 24.777982634236757]],
+                "availablePlugins": ["layer_selector", "community_planning"],
+                "outlineColor": "#000",
+                "noFill": true
+            },
+            {
+                "id": "San Jose del Cabo Centro",
+                "display": "San Jose del Cabo Centro",
+                "details": "San Jose del Cabo Centro, Baja Sur, Mexico",
+                "shape": [[-109.74361555054995, 23.037528414181068], [-109.74361555054995, 23.11492466146094], [-109.68651258003956, 23.11492466146094], [-109.68651258003956, 23.037528414181068], [-109.74361555054995, 23.037528414181068]],
+                "availablePlugins": ["layer_selector", "community_planning"],
                 "outlineColor": "#000",
                 "noFill": true
             }
