@@ -1,17 +1,30 @@
 [
     {
         "agsSource": {
-            "url": "http://dev.services2.coastalresilience.org:6080/arcgis/rest/services",
-            "folderTitle": "Flood & Sea_Level Rise",
+            "url": "http://dev.services2.coastalresilience.org:6080/arcgis/rest/services/Baja",
+            "folderTitle": "Baja",
             "folders": [
                 {
-                    "name": "Baja",
+					"name": "",
                     "services": [
-					    { "name": "Cyclone_Odile_2014", "type":"dynamic" }
-						
-                    ]
-                }
-            ]
+						{ "name": "Baja", "type":"dynamic", "displayName":"Cyclone Odile 2014", "showLayers": [
+								{"id":53, "parentLayerId":-1 },
+								{"id":54, "parentLayerId":-1 },
+								{"id":55, "parentLayerId":-1 },
+								{"id":56, "parentLayerId":-1 },
+								{"id":57, "parentLayerId":-1 },
+								{"id":58, "parentLayerId":-1 },
+								{"id":59, "parentLayerId":-1 },
+								{"id":60, "parentLayerId":-1 },
+								{"id":61, "parentLayerId":-1 },
+								{"id":62, "parentLayerId":-1 },
+								{"id":63, "parentLayerId":-1 },
+								{"id":64, "parentLayerId":-1 }
+							]
+						}	
+					]
+				}
+			]
         }
-    }
+	}
 ]
