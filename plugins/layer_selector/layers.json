@@ -8,10 +8,6 @@
 					"name": "",
                     "services": [
 						{ "name": "Baja", "type":"dynamic", "displayName":"Ecological Assets", "showLayers": [
-								{"id":30, "parentLayerId":-1 },
-								{"id":31, "parentLayerId":-1 },
-								{"id":32, "parentLayerId":-1 },
-								{"id":33, "parentLayerId":-1 },
 								{"id":34, "parentLayerId":-1 },
 								{"id":35, "parentLayerId":-1 },
 								{"id":36, "parentLayerId":-1 },
@@ -21,7 +17,11 @@
 								{"id":40, "parentLayerId":-1 },
 								{"id":41, "parentLayerId":-1 },
 								{"id":42, "parentLayerId":-1 },
-								{"id":43, "parentLayerId":-1 }
+								{"id":43, "parentLayerId":-1 },
+								{"id":44, "parentLayerId":-1 },
+								{"id":45, "parentLayerId":-1 },
+								{"id":46, "parentLayerId":-1 },
+								{"id":47, "parentLayerId":-1 }
 							]
 						}	
 					]
@@ -30,13 +30,13 @@
 					"name": "",
                     "services": [
                         { "name": "Baja", "type":"dynamic", "displayName":"Social and Economic Assets", "description":"The Habitat map service features data including but not limited to salt marshes, sea grasses, and current and historical oyster reefs. A brief description and metadata appear when you click on each layer.", "showLayers": [
-								{"id":45, "parentLayerId":-1 },
-								{"id":46, "parentLayerId":-1 },
-								{"id":47, "parentLayerId":-1 },
-								{"id":48, "parentLayerId":-1 },
 								{"id":49, "parentLayerId":-1 },
 								{"id":50, "parentLayerId":-1 },
-								{"id":51, "parentLayerId":-1 }
+								{"id":51, "parentLayerId":-1 },
+								{"id":52, "parentLayerId":-1 },
+								{"id":53, "parentLayerId":-1 },
+								{"id":54, "parentLayerId":-1 },
+								{"id":55, "parentLayerId":-1 }
 							]
 						}	
 					]

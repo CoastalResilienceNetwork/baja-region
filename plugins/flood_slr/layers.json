@@ -26,5 +26,34 @@
 				}
 			]
         }
+	},
+	{
+        "agsSource": {
+            "url": "http://dev.services2.coastalresilience.org:6080/arcgis/rest/services/Baja",
+            "folderTitle": "Baja",
+            "folders": [
+                {
+					"name": "",
+                    "services": [
+						{ "name": "Baja", "type":"dynamic", "displayName":"Coastal Hazards", "showLayers": [
+								{"id":70, "parentLayerId":-1 },
+								{"id":71, "parentLayerId":-1 },
+								{"id":72, "parentLayerId":71 },
+								{"id":73, "parentLayerId":71 },
+								{"id":74, "parentLayerId":71 },
+								{"id":75, "parentLayerId":71 },
+								{"id":76, "parentLayerId":71 },
+								{"id":77, "parentLayerId":-1 },
+								{"id":78, "parentLayerId":77 },
+								{"id":79, "parentLayerId":77 },
+								{"id":80, "parentLayerId":77 },
+								{"id":81, "parentLayerId":77 },
+								{"id":82, "parentLayerId":77 }
+							]
+						}	
+					]
+				}
+			]
+        }
 	}
 ]
