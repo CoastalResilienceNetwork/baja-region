@@ -8,10 +8,6 @@
 					"name": "",
                     "services": [
 						{ "name": "Baja", "type":"dynamic", "displayName":"Cyclone Odile 2014", "showLayers": [
-								{"id":53, "parentLayerId":-1 },
-								{"id":54, "parentLayerId":-1 },
-								{"id":55, "parentLayerId":-1 },
-								{"id":56, "parentLayerId":-1 },
 								{"id":57, "parentLayerId":-1 },
 								{"id":58, "parentLayerId":-1 },
 								{"id":59, "parentLayerId":-1 },
@@ -19,7 +15,10 @@
 								{"id":61, "parentLayerId":-1 },
 								{"id":62, "parentLayerId":-1 },
 								{"id":63, "parentLayerId":-1 },
-								{"id":64, "parentLayerId":-1 }
+								{"id":65, "parentLayerId":-1 },
+								{"id":66, "parentLayerId":-1 },
+								{"id":67, "parentLayerId":-1 },
+								{"id":68, "parentLayerId":-1 }
 							]
 						}	
 					]
