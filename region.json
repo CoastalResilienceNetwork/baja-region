@@ -118,10 +118,18 @@
                 "description": "Custom maps for adaptation, conservation and restoration planning",
                 "issues": [
                     {
-                      "name": "Explore Cyclone Risk",
+                      "name": "September 2014: Hurricane Odile",
                       "description": "temp Example generated for baja stakeholder presentation",
                       "saveCode": "e34df34rd3....3434",
                       "saveCode": "eyJzY3JlZW4iOsSAc3BsaXRTxIPEhcSHOmZhbHNlLMSBeW5jTWFwc8SIxJXEl2V9xJptxKAwxIjEgGV4dMSGdMSsInR5cGXEiCLErsSwbsSyxJp4bWnEky0xMzM5MTY3Mi4yxYY5MjcxNMSaecWBxJMyNjUyMjEwLsWbOTk4OTQ5NsS/xKl4xIjFhDHFkzc0ODEuMDgzNMWwxacyxZXFqsSIMzc1NcW3OS7Fi8WcMMW1NsWoxIFwYXRpxJZSZWZlxITEncS4xIkid2tpZMSIxZ7FncaIxJpsxo5lc3RXxpzGnjozODU3xKciX8aNcnTEojpbxK3Er8SxxLPEtcS3xLnEu8a8xanFgsWsxYXFh8WJxYvFjcWPxZHFk8W8x4Q6xZnFm8ahxaAyxaLFpMWmxovFgGHFqzrFrcWvxbHFs8W1xbfFuTbFuyLFlsebxb7GgMaCxabGhcWcMsaIOMaKxJrEi8aOxpBsxpLGlMaWY8aYxIDGm8adxp8wxqEwxqPGpcanxqnIgMasxq7GsMaxZnJhbWVJZMa3WzBdfciYx7RlbGVjxLBkQmHEmMSpcEluZMSuxIgwxrHGjW5lxKvGmciuZU51bWLGlcirx7R0xqVPZlBsdWfFgsa3xIrInMieyKDJgMmCx48ixIzJi25zL8akecaVX8SYyJ3In29yIsSayY7Jg8mQxLPJnsmEyZJhyZRyyZbJh8mZyZvGmXJvb3QvyKJqYcmxYcmzxbczxoI2xb/GrcWHNDA0xZMyNMW3NDQ1NDbFuMSzb8aNY8SOecirxoXEmmNoyJ5rZcarxKTEmMaxdsaVc2lvxJMixbMxyZwiya3Jr8m1ybPKq2HFpjUwNTHFm8aCyojGgcqMyo7KkMqSN8qUypZjypjGq3RydcSZInZpyqBiyJ1MyaXGlciTyJXFm8iYyK3JgcmfyZFmbMmuZMmWbMmrxIDKqcmwybLJtMuhxq81xq7FpzA2xYnFmTPFmsaKxYo2OMq4YcqPxLXKu8q9ypfKmcSIy4LLhMSay4fLicuLy41yy4/EiFvJuyw1OSw2yJfKncqfyqHKo8qlyqfLn8qtyq03MMWSNzfLssu0ypE6xZ/KvCLKlcu4yprElsqcfcynzKc=",
+                      "faIcon": "fa fa-exclamation-triangle",
+                      "faSize": 32
+                    },
+                    {
+                      "name": "June 2015: Hurricane Blanco",
+                      "description": "temp Example generated for baja stakeholder presentation",
+                      "saveCode": "e34df34rd3....3434",
+                      "saveCode": "eyJzY3JlZW4iOsSAc3BsaXRTxIPEhcSHOmZhbHNlLMSBeW5jTWFwc8SIxJXEl2V9xJptxKAwxIjEgGV4dMSGdMSsInR5cGXEiCLErsSwbsSyxJp4bWnEky0xNDkzMjAzMS4yMjc5Mjk2xYrEmnnFgcSTNTg0MTMwxY3FkTcwNsWLNjLEv8SpeMSILTkwODYxxY8uxZ40NjjFrjc2xZbFqcSIMzjFr8WJOS45xYXFpjUwNTPEmsSLYXRpxJZSZWZlxITEncS4xIkid2tpZMSIMTAyxp8wxJpsxo1lc3RXxpvGnTrFvjU3xKciX3BhcnTEojpbxK3Er8SxxLPEtcS3xLnEu8a9xajFgsWrxYXFh8WJxYvFjcWPxZHFk8WVIsWXx4U6xZrFnMWexaDFj8WjxaXFpyLFgGHFqjrFrMWuxbDFssW0xbbFuMW6x5DFvMatxb/FpjDGgsaExbUyxofGicaLxrTGjsaQxpLGlMSGY8aXxIDGmsacxp7GoMaixqTGpsaoxqrIgMerxq99xrFmcmFtZUlkxrhbMF19yJfGi2VsZWPEsGRCYcSYxKlwSW5kxK7EiDDGsca0bmXEq8aYyK1lTnVtYsaUyKrGi3TGpk9mUGx1Z8WCxrjEisibyJ3In8i/yYHHkiLEjMmKbnMvxqV5xpRfxJjInMieb3IixJrJjcmCyY/Es8mdyYPJkWHJk3LJlcmGyZjJmsaYcm9vdC/IoWphybBhybIzNDPGicWkN8W+Mzk0MMWcNDLJuDTKhjXFtTQ3xLNvxrRjxI55yKouN8SaY2jInWtlxqx0cnXEpsSadsaUc2lvxJMixYwxyZsiyazJrsm0ybLKrmHFhsezMTXHssm5NDU1yozKjsqQypLKlCLKlsqYyprEiMqcyp7KoGnKo2LInEzJpMaUyJLIlMq5yJnKq8mtya9HbG9ixJYgRMuIyKLEsHIgQcicxrYgYcinIEPJrXJkxYLGjcqkbiBTecaoZW0vZ2RhY3PLosaUxrdByJ5pyqFCRzU2NzjKu8u6yr06xZ81ypXKl2PKmcqbyp3EmSJ2y4hpy4ply4zJpcuPxIhbxbrKlDjLksqsy5XLl8uZbMuby53LtMugy73LpMumZMuoy6rLrG7Lrsqly7HLs8Swy7bLuMu6y7zLo8u/zIHMg0fFscyKyo/EtcqSzI/LgMyRzJPEo8SWxJjGscymL8uWy5jLmsucc8uexpTLoc2Ay6XLp8upyZnMtcy3y7DLssu0zLzLucu7zK/NgcaOzYMzzYbMjMyOzJDLgsasxKTNkMSazZLNlMypzKvNmMytzZvLvs2dzLLNn8ury63Gjsy4zaTMu8u3zafMv8u+y7zNgmXMhDTNrs2IzI0uzYrLgcySy4PElM2PxKbIi86c",
                       "faIcon": "fa fa-exclamation-triangle",
                       "faSize": 32
                     },
