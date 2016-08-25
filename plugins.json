@@ -5,6 +5,10 @@
             "name": "layer_selector"
         },
         {
+            "repo": "regional-planning",
+            "name": "regional-planning"
+        },
+        {
             "repo": "map-tree",
             "name": "community_planning"
         },
