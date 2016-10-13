@@ -1,0 +1,8 @@
+{
+    "resizable": true,
+    "hasCustomPrint": false,
+	"toolbarName": "Flood & Sea Level Rise",
+	"fullName": "Visualize inundation scenarios from coastal and riverine flooding, storms and sea level rise",
+	"toolbarType": "sidebar",
+	"infoGraphic": "plugins/flood_slr/slr_flooding_c.jpg"
+}
