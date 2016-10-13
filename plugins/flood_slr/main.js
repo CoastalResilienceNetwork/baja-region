@@ -49,7 +49,7 @@ define([
             toolbarType: "sidebar",
             allowIdentifyWhenActive: true,
             hasCustomPrint: true,
-			infoGraphic: "plugins/flood_slr/slr_flooding_c.jpg"
+			infoGraphic: "plugins/flood_slr/slr_flooding_c.jpg",
 
             _layerManager: null,
             _ui: null,

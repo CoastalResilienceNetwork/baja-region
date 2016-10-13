@@ -49,7 +49,7 @@ define([
             toolbarType: "sidebar",
             allowIdentifyWhenActive: true,
             hasCustomPrint: true,
-			infoGraphic: "plugins/community_planning/CommunityPlanning_c.jpg"
+			infoGraphic: "plugins/community_planning/CommunityPlanning_c.jpg",
 
             _layerManager: null,
             _ui: null,
