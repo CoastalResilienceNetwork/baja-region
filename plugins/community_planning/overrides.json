@@ -1,7 +1,0 @@
-{
-    "resizable": true,
-    "hasCustomPrint": false,
-	"name": "Community Planning",
-	"description": "Configure and control layers to be overlayed on the base map.",
-	"infoGraphic": "plugins/community_planning/CommunityPlanning_c.jpg"
-}
