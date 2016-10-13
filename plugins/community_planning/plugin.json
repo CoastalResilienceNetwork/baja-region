@@ -1,6 +1,6 @@
 {
     "css": [
-        "plugins/community_planning/main.css",
+        "plugins/regional_planning/main.css",
         "//d16l3xhd6wlg5a.cloudfront.net/resources/css/ext-all.css"
     ],
     "use": {

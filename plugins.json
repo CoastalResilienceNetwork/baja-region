@@ -5,12 +5,8 @@
             "name": "regional-planning"
         },
         {
-            "repo": "map-tree",
+            "repo": "regional-planning",
             "name": "community_planning"
-        },
-        {
-            "repo": "map-tree",
-            "name": "flood_slr"
         }
     ]
 }
