@@ -42,9 +42,9 @@
         { "name": "Terreno"            , "url": "http://server.arcgisonline.com/ArcGIS/rest/services/World_Terrain_Base/MapServer" }
     ],
     "pluginOrder": [
-        "layer_selector",
-		"flood_slr",
+        "regional-planning",
 		"community_planning",
+		"flood_slr",
         "zoom_to",
         "measure",
         "legend_display",
